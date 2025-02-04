@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+div{
+	width: 300px;
+    background-color: rgb(173,216,230);
+    border: 15px solid rgb(0,0,255);
+    padding: 50px;
+    margin: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
